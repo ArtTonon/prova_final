@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+.jogadores-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
